@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 ee70f207472a451684ccb0ba73d24f134b845f07 gagan <deep.virk@outlook.co.nz> 1614761764 +1300	commit (initial): Initialize project using Create React App
+ee70f207472a451684ccb0ba73d24f134b845f07 103cad9c28c983599d8dca6db9ff8473d038beac gagan <deep.virk@outlook.co.nz> 1614763075 +1300	commit: first commit
+103cad9c28c983599d8dca6db9ff8473d038beac 01f93ebdae2299ea5fde01e4cc544e480d69a1ce gagan <deep.virk@outlook.co.nz> 1614850365 +1300	commit: set up assets like styles, images and template code
+01f93ebdae2299ea5fde01e4cc544e480d69a1ce 7e6e46349954a460f7c81b34de0b14929925c883 gagan <deep.virk@outlook.co.nz> 1614951581 +1300	commit: initialized the state
+7e6e46349954a460f7c81b34de0b14929925c883 6e7e0b7a6d16d69b85e0ef403d39d88ddc7eb5ef gagan <deep.virk@outlook.co.nz> 1614952670 +1300	commit: built the GuestList Component
+6e7e0b7a6d16d69b85e0ef403d39d88ddc7eb5ef 894b37050f439ff9e511a58d3863dd0346013754 gagan <deep.virk@outlook.co.nz> 1614956164 +1300	commit: connected the confirm guests handler
+894b37050f439ff9e511a58d3863dd0346013754 a8a3208b60e320e08118a65357467674505f6a9c gagan <deep.virk@outlook.co.nz> 1615026846 +1300	commit: changed guest name in state
+a8a3208b60e320e08118a65357467674505f6a9c e15e7a07d9a900f0eccf8bfe67994f104c8e4212 gagan <deep.virk@outlook.co.nz> 1615158597 +1300	commit: filtered guests
