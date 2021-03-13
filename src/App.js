@@ -6,10 +6,7 @@ class App extends Component {
 
   state = {
     isFiltered: false,
-<<<<<<< HEAD
     pendingGuest: "",
-=======
->>>>>>> e15e7a07d9a900f0eccf8bfe67994f104c8e4212
     guests: [
       {
         name: 'Treasure',
@@ -42,7 +39,6 @@ class App extends Component {
       })
     });
 
-<<<<<<< HEAD
     setNameAt = (name, indexToChange) =>
     this.setState({
       guests: this.state.guests.map((guest, index) => {
@@ -85,11 +81,9 @@ class App extends Component {
       });
     }
 
-=======
     toggleFilter = () => 
       this.setState({ isFiltered: !this.state.isFiltered });
 
->>>>>>> e15e7a07d9a900f0eccf8bfe67994f104c8e4212
     toggleConfirmationAt = index =>
       this.toggleGuestPropertyAt("isConfirmed", index);
 
@@ -148,11 +142,9 @@ class App extends Component {
             toggleEditingAt={this.toggleEditingAt} 
             setNameAt={this.setNameAt}
             isFiltered={this.state.isFiltered}
-<<<<<<< HEAD
             removeGuestAt={this.removeGuestAt}
-=======
->>>>>>> e15e7a07d9a900f0eccf8bfe67994f104c8e4212
-            />
+            pendingGuest={this.state.pendingGuest}
+          />
         </div>
       </div>
     );
